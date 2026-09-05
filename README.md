@@ -125,12 +125,4 @@
 
 ---
 
-## 📫 Контакты
-
-- Telegram: [@your-telegram](https://t.me/your-telegram)
-- GitHub: [your-username](https://github.com/your-username)
-- Email: your-email@example.com
-
----
-
 **⭐️ Если тебе нравится то, что я делаю — поставь звёздочку на репозиторий!**
